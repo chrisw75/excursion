@@ -22,3 +22,7 @@ a {
   font-size: 16px;
   color: Aquamarine;
 }
+.footer {
+  color: gray;
+  text-align: right;
+}
